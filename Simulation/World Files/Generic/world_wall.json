@@ -1,0 +1,14 @@
+{
+    "category": "world",
+    "dimension": 2,
+    "description": "N/A",
+    "color": "black",
+    "shapes": [
+        {
+            "type": "circle",
+            "diameter": 5,
+            "center": [0, 3],
+            "color": "black"
+        }
+    ]
+}
